@@ -1,0 +1,3 @@
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/SunnyPmc/git@github.com:SunnyPmc/quoteGenerator-chatGpt.git
